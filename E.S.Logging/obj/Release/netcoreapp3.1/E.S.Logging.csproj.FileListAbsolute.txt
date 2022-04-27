@@ -1,0 +1,9 @@
+D:\Projects\Nuget Projects\E.S.Logging\E.S.Logging\bin\Release\netcoreapp3.1\E.S.Logging.deps.json
+D:\Projects\Nuget Projects\E.S.Logging\E.S.Logging\bin\Release\netcoreapp3.1\E.S.Logging.dll
+D:\Projects\Nuget Projects\E.S.Logging\E.S.Logging\bin\Release\netcoreapp3.1\E.S.Logging.pdb
+D:\Projects\Nuget Projects\E.S.Logging\E.S.Logging\obj\Release\netcoreapp3.1\E.S.Logging.csprojAssemblyReference.cache
+D:\Projects\Nuget Projects\E.S.Logging\E.S.Logging\obj\Release\netcoreapp3.1\E.S.Logging.AssemblyInfoInputs.cache
+D:\Projects\Nuget Projects\E.S.Logging\E.S.Logging\obj\Release\netcoreapp3.1\E.S.Logging.AssemblyInfo.cs
+D:\Projects\Nuget Projects\E.S.Logging\E.S.Logging\obj\Release\netcoreapp3.1\E.S.Logging.csproj.CoreCompileInputs.cache
+D:\Projects\Nuget Projects\E.S.Logging\E.S.Logging\obj\Release\netcoreapp3.1\E.S.Logging.dll
+D:\Projects\Nuget Projects\E.S.Logging\E.S.Logging\obj\Release\netcoreapp3.1\E.S.Logging.pdb

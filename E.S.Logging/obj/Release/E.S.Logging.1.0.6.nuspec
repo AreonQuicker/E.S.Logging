@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>E.S.Logging</id>
+    <version>1.0.6</version>
+    <authors>E.S.Logging</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.Extensions.Logging.Abstractions" version="3.1.21" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\Nuget Projects\E.S.Logging\E.S.Logging\bin\Release\netcoreapp3.1\E.S.Logging.dll" target="lib\netcoreapp3.1\E.S.Logging.dll" />
+  </files>
+</package>

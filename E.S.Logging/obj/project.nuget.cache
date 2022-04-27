@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tXlHGwvaMmSN1KGsuF2Ocl0cDN7gXJs03VohT+JtV+H9Wam41DpgLjTrmxowl4Sb29a8UoVg335QJGGBnPTTUQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Nuget Projects\\E.S.Logging\\E.S.Logging\\E.S.Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gideon.harmse\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.21\\microsoft.extensions.logging.abstractions.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
